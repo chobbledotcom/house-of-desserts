@@ -1,0 +1,18 @@
+<script>
+  window.goatcounter = { no_onload: true }
+  const trackPageView = () => {
+    if (typeof window.goatcounter.count === 'function') {
+      window.goatcounter.count({
+        path: location.pathname + location.search + location.hash,
+      });
+    }
+  }
+  document.addEventListener("DOMContentLoaded", trackPageView)
+  document.addEventListener("turbo:load", trackPageView)
+</script>
+<script
+  data-goatcounter="https://analytics.southportorganics.co.uk/count"
+  async
+  src="https://analytics.southportorganics.co.uk/count.js"
+></script>
+<link rel="shortcut icon" href="/favicon.png" />
