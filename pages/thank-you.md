@@ -3,6 +3,6 @@ header_text: Thank You
 meta_title: Thank You | House of Desserts
 permalink: /thank-you/
 ---
-## Thank You
+## Thanks
 
-Your message has been sent - we will be in touch soon!
+Message sent. We'll be in touch.

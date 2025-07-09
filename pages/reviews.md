@@ -9,3 +9,16 @@ eleventyNavigation:
 layout: reviews.html
 permalink: /reviews/
 ---
+
+## Customer Reviews
+
+[Customer reviews coming soon]
+
+## Leave a Review
+[Review form or instructions coming soon]
+
+## Google Reviews
+[Google reviews integration coming soon]
+
+## Social Media Reviews
+[Social media reviews coming soon]

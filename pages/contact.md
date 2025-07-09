@@ -9,4 +9,25 @@ layout: contact.html
 permalink: /contact/
 ---
 
-# Contact
+# Get in Touch
+
+## Visit Us
+[Full address coming soon]  
+Lutterworth High Street  
+Lutterworth  
+[Postcode coming soon]
+
+## Opening Hours
+[Opening hours coming soon]
+
+## Phone
+[Phone number coming soon]
+
+## Email
+[Email address coming soon]
+
+## Social Media
+[Social media links coming soon]
+
+## Directions
+[Directions and parking info coming soon]

@@ -5,8 +5,13 @@
   --color-bg-secondary: #ffffff;
   --border: 2px solid #daa520;
   --box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.3);
-  --font-family-heading: ui-rounded, "Hiragino Maru Gothic ProN", Quicksand, Comfortaa, Manjari, "Arial Rounded MT", "Arial Rounded MT Bold", Calibri, source-sans-pro, sans-serif;
-  --font-family-body: Rockwell, "Rockwell Nova", "Roboto Slab", "DejaVu Serif", "Sitka Small", serif;
+  --font-family-heading:
+    "Angkor", ui-rounded, "Hiragino Maru Gothic ProN", Quicksand, Comfortaa,
+    Manjari, "Arial Rounded MT", "Arial Rounded MT Bold", Calibri,
+    source-sans-pro, sans-serif;
+  --font-family-body:
+    Rockwell, "Rockwell Nova", "Roboto Slab", "DejaVu Serif", "Sitka Small",
+    serif;
   --link-decoration: underline;
   --link-decoration-hover: underline;
   --link-decoration-style: dashed;
@@ -16,5 +21,41 @@
   --form-button-hover-border: 2px solid #8b0000;
 }
 
-
 /* body_classes: header-centered, headings-centered */
+
+.items .image-link {
+  aspect-ratio: 3/2;
+}
+
+@font-face {
+  font-family: "Angkor";
+  font-style: normal;
+  font-weight: 400;
+  src:
+    url(/assets/fonts/angkor-latin-400-normal.woff2) format("woff2"),
+    url(/assets/fonts/angkor-latin-400-normal.woff) format("woff");
+  unicode-range:
+    U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+    U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212,
+    U+2215, U+FEFF, U+FFFD;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+nav,
+button {
+  font-weight: 400;
+}
+
+body > footer .socials li a img {
+  filter: invert(20%) sepia(63%) saturate(2992%) hue-rotate(346deg)
+    brightness(89%) contrast(92%);
+  &:hover {
+    filter: invert(20%) sepia(63%) saturate(2992%) hue-rotate(346deg)
+      brightness(89%) contrast(92%);
+  }
+}

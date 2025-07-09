@@ -9,6 +9,6 @@ eleventyNavigation:
   order: 2
 ---
 
-# Our Dessert Menu
+# Menu
 
-Indulgent desserts for every craving. Browse our full menu below.
+What we serve. Browse below.

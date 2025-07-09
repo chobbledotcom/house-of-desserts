@@ -9,10 +9,20 @@ layout: home.html
 permalink: /
 ---
 
-Welcome to House of Desserts! Based on Lutterworth High Street, we offer a variety of fun filled treats suitable for all ages!
+House of Desserts is on Lutterworth High Street. We make desserts for everyone.
 
-From classic waffles and crepes to indulgent sundaes and our special Dubai desserts collection, we have something to satisfy every sweet tooth. Create your own cheesecake, enjoy our freshly made churros, or treat yourself to one of our delicious milkshakes.
+We serve waffles, crepes, sundaes, and our Dubai desserts. You can create your own cheesecake, get fresh churros, or have a milkshake.
 
-Whether you're looking for a quick sweet treat or planning a special dessert experience, our menu features favorites like Ferrero Rocher, Oreo, Biscoff, Bueno, and Reeses paired with your favorite desserts.
+Our menu includes Ferrero Rocher, Oreo, Biscoff, Bueno, and Reeses in various desserts. Whether you want something quick or special, we have options.
 
-Visit us on Lutterworth High Street for an unforgettable dessert experience!
+## Opening Hours
+[Opening hours coming soon]
+
+## Location
+[Exact address coming soon]  
+Lutterworth High Street
+
+## About Us
+[Our story and mission coming soon]
+
+Come see us on the High Street.

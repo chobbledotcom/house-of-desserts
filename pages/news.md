@@ -8,6 +8,6 @@ layout: news-archive.html
 permalink: /news/
 ---
 
-## News & Special Offers
+## News & Offers
 
-Check out our latest news and special offers below. Follow us on social media to stay updated on new desserts and seasonal treats!
+Latest updates and offers. Follow us on social media for new desserts and seasonal treats.
