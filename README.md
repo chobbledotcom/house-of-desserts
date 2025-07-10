@@ -1,31 +1,41 @@
-# Southport Organics
+# House of Desserts
 
-**[www.southportorganics.co.uk](https://www.southportorganics.co.uk/)**
+**[house-of-desserts.co.uk](https://house-of-desserts.co.uk)**
 
-## About Southport Organics
+## About House of Desserts
 
-Southport Organics is a family-run business based in Southport, UK, dedicated to creating luxurious, natural, and organic skincare and body care products. Our mission is to provide high-quality, handcrafted self-care items that are both environmentally conscious and effective.
+House of Desserts is a dessert shop located on Lutterworth High Street, serving fun-filled treats suitable for all ages. We specialize in creating delicious desserts using popular brands like Ferrero Rocher, Oreo, Biscoff, Bueno, and Reeses.
 
-### Our Values
+### Our Location
 
-- **100% Vegan and Cruelty-Free**: We never test on animals and use only plant-based ingredients
-- **Natural and Organic**: We use organic ingredients wherever possible
-- **Environmentally Responsible**: All our packaging is 100% plastic-free
-- **Palm Oil-Free**: We never use palm oil in our products
-- **Charitable**: We donate £50 to a different animal charity each month
-- **Handcrafted**: All products are lovingly made by hand in Southport, inspired by the sea, sandy beaches, and vast pine woods
+12 High Street  
+Lutterworth  
+Leicestershire  
+LE17 4AD
 
-### Our Product Categories
+### Opening Hours
 
-- **Face Care**: Clay masks, facial oils, face creams, and overnight recovery masks
-- **Bath Salts**: Luxury bath salts in various scents and formulations
-- **Hand Care**: Organic hand creams with shea butter
-- **Foot Care**: Peppermint and spearmint foot creams and soaks
-- **Lip Care**: Vegan lip balms with cocoa butter
-- **Gift Sets**: Beautifully packaged hampers and gift boxes for all occasions
+12pm - 11pm Daily
 
-All our products are free from artificial fragrances, colors, parabens, silicones, petroleum derivatives, and sulfates.
+### Our Menu
+
+- **Waffles**: Fresh waffles with various toppings and drizzles
+- **Crepes**: Thin crepes with sweet fillings and toppings
+- **Sundaes**: Ice cream sundaes with your favorite treats
+- **Dubai Desserts**: Special Middle Eastern inspired desserts
+- **Create Your Own Cheesecake**: Customizable cheesecakes
+- **Churros**: Fresh churros with various dips and toppings
+- **Milkshakes**: Thick milkshakes in various flavors
+- **Mini Dutch Pancakes**: Small fluffy pancakes with toppings
+- **Doughnuts**: Fresh doughnuts with various glazes and toppings
+
+All desserts can be customized with popular brands and flavors including Ferrero Rocher, Oreo, Biscoff, Bueno, and Reeses.
+
+### Social Media
+
+- **Facebook**: [House of Desserts](https://www.facebook.com/profile.php?id=61576113030850)
+- **Instagram**: [@house_of_dessert_s](https://www.instagram.com/house_of_dessert_s)
 
 ## Technical Information
 
-A website based on the [Chobble Client](https://git.chobble.com/chobble/chobble-client) template, written in Eleventy with MVP.css, built with Node on Github actions, and hosted on Bunny.net.
+A website based on the [Chobble Client](https://git.chobble.com/chobble/chobble-client) template, written in Eleventy with MVP.css, built with Node on Github actions, and hosted on Neocities at https://house-of-desserts.co.uk.
