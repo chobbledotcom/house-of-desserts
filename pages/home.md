@@ -16,11 +16,13 @@ We serve waffles, crepes, sundaes, and our Dubai desserts. You can create your o
 Our menu includes Ferrero Rocher, Oreo, Biscoff, Bueno, and Reeses in various desserts. Whether you want something quick or special, we have options.
 
 ## Opening Hours
-[Opening hours coming soon]
+12pm - 11pm Daily
 
 ## Location
-[Exact address coming soon]  
-Lutterworth High Street
+12 High Street  
+Lutterworth  
+Leicestershire  
+LE17 4AD
 
 ## About Us
 [Our story and mission coming soon]

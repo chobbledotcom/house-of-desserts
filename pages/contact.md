@@ -12,13 +12,13 @@ permalink: /contact/
 # Get in Touch
 
 ## Visit Us
-[Full address coming soon]  
-Lutterworth High Street  
+12 High Street  
 Lutterworth  
-[Postcode coming soon]
+Leicestershire  
+LE17 4AD
 
 ## Opening Hours
-[Opening hours coming soon]
+12pm - 11pm Daily
 
 ## Phone
 [Phone number coming soon]

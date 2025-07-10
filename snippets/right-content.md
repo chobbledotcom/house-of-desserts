@@ -5,12 +5,13 @@ name: Right Column
 ![House of Desserts Logo](/assets/house-of-desserts.png)
 
 ## Visit Us
-[Full address coming soon]  
-Lutterworth High Street  
+12 High Street  
 Lutterworth  
+Leicestershire  
+LE17 4AD
 
 ## Opening Hours
-[Opening hours coming soon]
+12pm - 11pm Daily
 
 ## Contact
 [Phone number coming soon]  
