@@ -26,8 +26,7 @@ permalink: /contact/
 
 ## Get In Touch
 
-**Phone:** *Coming soon*  
-**Email:** *Coming soon*
+**Phone:** *Coming soon*
 
 *Got a question about our desserts or want to place a special order? We'd love to hear from you!*
 

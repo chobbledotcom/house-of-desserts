@@ -17,8 +17,7 @@ LE17 4AD
 
 ## Contact
 
-[Phone number coming soon]  
-[Email address coming soon]
+[Phone number coming soon]
 
 ## Follow Us
 

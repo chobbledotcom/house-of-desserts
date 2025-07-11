@@ -20,4 +20,4 @@ Our dessert shop brings you a wide variety of sweet treats including:
 
 [More details about our opening story coming soon]
 
-Visit us today and discover your new favorite dessert!
+Visit us today and discover your new favourite dessert!

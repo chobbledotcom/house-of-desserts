@@ -12,6 +12,6 @@ eleventyNavigation:
 
 # Menu
 
-**Discover our delicious selection** of handcrafted desserts. Browse our **signature creations** below and find your new favorite treat.
+**Discover our delicious selection** of handcrafted desserts. Browse our **signature creations** below and find your new favourite treat.
 
-*From classic favorites to innovative Dubai-style desserts, every item is made fresh to order.*
+*From classic favourites to innovative Dubai-style desserts, every item is made fresh to order.*

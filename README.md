@@ -4,7 +4,7 @@
 
 ## About House of Desserts
 
-House of Desserts is a dessert shop located on Lutterworth High Street, serving fun-filled treats suitable for all ages. We specialize in creating delicious desserts using popular brands like Ferrero Rocher, Oreo, Biscoff, Bueno, and Reeses.
+House of Desserts is a dessert shop located on Lutterworth High Street, serving fun-filled treats suitable for all ages. We specialise in creating delicious desserts using popular brands like Ferrero Rocher, Oreo, Biscoff, Bueno, and Reeses.
 
 ### Our Location
 
@@ -21,15 +21,15 @@ LE17 4AD
 
 - **Waffles**: Fresh waffles with various toppings and drizzles
 - **Crepes**: Thin crepes with sweet fillings and toppings
-- **Sundaes**: Ice cream sundaes with your favorite treats
+- **Sundaes**: Ice cream sundaes with your favourite treats
 - **Dubai Desserts**: Special Middle Eastern inspired desserts
 - **Create Your Own Cheesecake**: Customizable cheesecakes
 - **Churros**: Fresh churros with various dips and toppings
-- **Milkshakes**: Thick milkshakes in various flavors
+- **Milkshakes**: Thick milkshakes in various flavours
 - **Mini Dutch Pancakes**: Small fluffy pancakes with toppings
 - **Doughnuts**: Fresh doughnuts with various glazes and toppings
 
-All desserts can be customized with popular brands and flavors including Ferrero Rocher, Oreo, Biscoff, Bueno, and Reeses.
+All desserts can be customised with popular brands and flavours including Ferrero Rocher, Oreo, Biscoff, Bueno, and Reeses.
 
 ### Social Media
 

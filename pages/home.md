@@ -34,7 +34,7 @@ Our menu features premium brands including **Ferrero Rocher**, **Oreo**, **Bisco
 
 *Our story and mission coming soon*
 
-**Come see us on the High Street** and discover why we're quickly becoming Lutterworth's favorite dessert destination.
+**Come see us on the High Street** and discover why we're quickly becoming Lutterworth's favourite dessert destination.
 
 ---
 
