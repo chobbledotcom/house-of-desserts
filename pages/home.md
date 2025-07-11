@@ -10,11 +10,11 @@ layout: home.html
 permalink: /
 ---
 
-House of Desserts is on Lutterworth High Street. We make desserts for everyone.
+## A New Dessert Shop on Lutterworth High St
 
-We serve waffles, crepes, sundaes, and our Dubai desserts. You can create your own cheesecake, get fresh churros, or have a milkshake.
+Opened in July 2025, we serve waffles, crepes, sundaes, and our amazing Dubai desserts. You can create your own cheesecake, get fresh hot churros with dips, or try one of our many milkshakes.
 
-Our menu includes Ferrero Rocher, Oreo, Biscoff, Bueno, and Reeses in various desserts. Whether you want something quick or special, we have options.
+Our menu includes Ferrero Rocher, Oreo, Biscoff, Bueno, and Reeses in various desserts. Whether you want something quick or special, we have options for every sweet tooth.
 
 ## Opening Hours
 
