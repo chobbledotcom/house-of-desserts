@@ -12,4 +12,6 @@ eleventyNavigation:
 
 # Menu
 
-What we serve. Browse below.
+**Discover our delicious selection** of handcrafted desserts. Browse our **signature creations** below and find your new favorite treat.
+
+*From classic favorites to innovative Dubai-style desserts, every item is made fresh to order.*

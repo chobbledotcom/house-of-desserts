@@ -11,4 +11,10 @@ permalink: /news/
 
 ## News & Offers
 
-Latest updates and offers. Follow us on social media for new desserts and seasonal treats.
+**Stay updated** with our latest menu additions, **special offers**, and exciting announcements. 
+
+**Follow us on social media** for sneak peeks of **new desserts** and **seasonal treats** before they hit the menu:
+
+[**Facebook**](https://www.facebook.com/profile.php?id=61576113030850) | [**Instagram**](https://www.instagram.com/house_of_dessert_s)
+
+*More news and updates coming soon as we settle into our new Lutterworth location!*

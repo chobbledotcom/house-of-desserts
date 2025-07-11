@@ -12,23 +12,31 @@ permalink: /
 
 ## A New Dessert Shop on Lutterworth High St
 
-Opened in July 2025, we serve waffles, crepes, sundaes, and our amazing Dubai desserts. You can create your own cheesecake, get fresh hot churros with dips, or try one of our many milkshakes.
+**Opened in July 2025**, we serve [handcrafted waffles](/menus/waffles/), [delicate crepes](/menus/crepes/), [indulgent sundaes](/menus/sundaes/), and our signature [Dubai desserts](/menus/dubai-desserts/). Create your own [custom cheesecake](/menus/cheesecakes/), enjoy [fresh hot churros](/menus/churros/) with artisanal dips, or treat yourself to one of our [creamy milkshakes](/menus/milkshakes/).
 
-Our menu includes Ferrero Rocher, Oreo, Biscoff, Bueno, and Reeses in various desserts. Whether you want something quick or special, we have options for every sweet tooth.
+Our menu features premium brands including **Ferrero Rocher**, **Oreo**, **Biscoff**, **Bueno**, and **Reeses** crafted into extraordinary desserts. Whether you're craving something **quick and sweet** or looking for a **special celebration treat**, we have the perfect option for every sweet tooth.
 
 ## Opening Hours
 
-12pm - 11pm Daily
+**12pm - 11pm Daily**  
+*Open every day of the week*
 
 ## Location
 
-12 High Street  
-Lutterworth  
-Leicestershire  
-LE17 4AD
+**12 High Street**  
+**Lutterworth**  
+**Leicestershire**  
+**LE17 4AD**
+
+[**Find us on Google Maps**](https://maps.app.goo.gl/4ZMZVLooaErnYnWw6)
 
 ## About Us
 
-[Our story and mission coming soon]
+*Our story and mission coming soon*
 
-Come see us on the High Street.
+**Come see us on the High Street** and discover why we're quickly becoming Lutterworth's favorite dessert destination.
+
+---
+
+**Follow us for the latest treats:**  
+[**Facebook**](https://www.facebook.com/profile.php?id=61576113030850) | [**Instagram**](https://www.instagram.com/house_of_dessert_s)

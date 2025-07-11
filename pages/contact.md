@@ -12,17 +12,27 @@ permalink: /contact/
 
 # Visit Us
 
-12 High Street  
-Lutterworth  
-Leicestershire  
-LE17 4AD
+**12 High Street**  
+**Lutterworth**  
+**Leicestershire**  
+**LE17 4AD**
+
+*Located in the heart of Lutterworth High Street*
 
 ## Opening Hours
 
-12pm - 11pm Daily
+**12pm - 11pm Daily**  
+*Open every day of the week for your sweet cravings*
 
-## Social Media
+## Get In Touch
 
-🌍 [Google Maps](https://maps.app.goo.gl/4ZMZVLooaErnYnWw6)  
-📘 [Facebook](https://www.facebook.com/profile.php?id=61576113030850)  
-📸 [Instagram](https://www.instagram.com/house_of_dessert_s)
+**Phone:** *Coming soon*  
+**Email:** *Coming soon*
+
+*Got a question about our desserts or want to place a special order? We'd love to hear from you!*
+
+## Find Us Online
+
+[**Google Maps**](https://maps.app.goo.gl/4ZMZVLooaErnYnWw6) - *Get directions*  
+[**Facebook**](https://www.facebook.com/profile.php?id=61576113030850) - *Follow for updates*  
+[**Instagram**](https://www.instagram.com/house_of_dessert_s) - *See our latest creations*

@@ -6,8 +6,8 @@
   --border: 2px solid #daa520;
   --box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.3);
   --font-family-heading:
-    "Cherry Swash", ui-rounded, "Hiragino Maru Gothic ProN", Quicksand, Comfortaa,
-    Manjari, "Arial Rounded MT", "Arial Rounded MT Bold", Calibri,
+    "Cherry Swash", ui-rounded, "Hiragino Maru Gothic ProN", Quicksand,
+    Comfortaa, Manjari, "Arial Rounded MT", "Arial Rounded MT Bold", Calibri,
     source-sans-pro, sans-serif;
   --font-family-body:
     Rockwell, "Rockwell Nova", "Roboto Slab", "DejaVu Serif", "Sitka Small",
@@ -31,38 +31,58 @@
 
 /* latin */
 @font-face {
-  font-family: 'Cherry Swash';
+  font-family: "Cherry Swash";
   font-style: normal;
   font-weight: 400;
-  src: url(/assets/fonts/cherry-swash-latin-400-normal.woff2) format('woff2'), url(/assets/fonts/cherry-swash-latin-400-normal.woff) format('woff'); 
-  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+  src:
+    url(/assets/fonts/cherry-swash-latin-400-normal.woff2) format("woff2"),
+    url(/assets/fonts/cherry-swash-latin-400-normal.woff) format("woff");
+  unicode-range:
+    U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+    U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212,
+    U+2215, U+FEFF, U+FFFD;
 }
 
 /* latin-ext */
 @font-face {
-  font-family: 'Cherry Swash';
+  font-family: "Cherry Swash";
   font-style: normal;
   font-weight: 400;
-  src: url(/assets/fonts/cherry-swash-latin-ext-400-normal.woff2) format('woff2'), url(/assets/fonts/cherry-swash-latin-ext-400-normal.woff) format('woff'); 
-  unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;
+  src:
+    url(/assets/fonts/cherry-swash-latin-ext-400-normal.woff2) format("woff2"),
+    url(/assets/fonts/cherry-swash-latin-ext-400-normal.woff) format("woff");
+  unicode-range:
+    U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304,
+    U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB,
+    U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 
 /* latin */
 @font-face {
-  font-family: 'Cherry Swash';
+  font-family: "Cherry Swash";
   font-style: normal;
   font-weight: 700;
-  src: url(/assets/fonts/cherry-swash-latin-700-normal.woff2) format('woff2'), url(/assets/fonts/cherry-swash-latin-700-normal.woff) format('woff'); 
-  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+  src:
+    url(/assets/fonts/cherry-swash-latin-700-normal.woff2) format("woff2"),
+    url(/assets/fonts/cherry-swash-latin-700-normal.woff) format("woff");
+  unicode-range:
+    U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+    U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212,
+    U+2215, U+FEFF, U+FFFD;
 }
 
 /* latin-ext */
 @font-face {
-  font-family: 'Cherry Swash';
+  font-family: "Cherry Swash";
   font-style: normal;
   font-weight: 700;
-  src: url(/assets/fonts/cherry-swash-latin-ext-700-normal.woff2) format('woff2'), url(/assets/fonts/cherry-swash-latin-ext-700-normal.woff) format('woff'); 
-  unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;
+  src:
+    url(/assets/fonts/cherry-swash-latin-ext-700-normal.woff2) format("woff2"),
+    url(/assets/fonts/cherry-swash-latin-ext-700-normal.woff) format("woff");
+  unicode-range:
+    U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304,
+    U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB,
+    U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 
 h1,
@@ -77,7 +97,7 @@ h6 {
 nav,
 button {
   font-weight: 400;
-  font-family: 'Cherry Swash';
+  font-family: "Cherry Swash";
 }
 
 main article {
@@ -207,4 +227,19 @@ nav > ul > li > a {
     transform: translateY(-2px);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   }
+}
+
+hr {
+  transform: scaleX(0);
+  height: 2px;
+  transform-origin: center;
+  animation: expandFromLeft 0.8s ease-out 0.4s forwards;
+  margin: 3rem auto 2rem;
+  max-width: 70%;
+  background: linear-gradient(
+    90deg,
+    var(--color-link) 0%,
+    var(--main-heading-color) 50%,
+    var(--color-link) 100%
+  );
 }
