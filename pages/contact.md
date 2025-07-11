@@ -10,9 +10,7 @@ layout: contact.html
 permalink: /contact/
 ---
 
-# Get in Touch
-
-## Visit Us
+# Visit Us
 
 12 High Street  
 Lutterworth  
@@ -23,18 +21,8 @@ LE17 4AD
 
 12pm - 11pm Daily
 
-## Phone
-
-[Phone number coming soon]
-
-## Email
-
-[Email address coming soon]
-
 ## Social Media
 
-[Social media links coming soon]
-
-## Directions
-
-[Directions and parking info coming soon]
+🌍 [Google Maps](https://maps.app.goo.gl/4ZMZVLooaErnYnWw6)  
+📘 [Facebook](https://www.facebook.com/profile.php?id=61576113030850)  
+📸 [Instagram](https://www.instagram.com/house_of_dessert_s)

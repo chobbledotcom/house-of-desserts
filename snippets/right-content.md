@@ -22,4 +22,6 @@ LE17 4AD
 
 ## Follow Us
 
-[Social media links coming soon]
+🌍 [Google Maps](https://maps.app.goo.gl/4ZMZVLooaErnYnWw6)  
+📘 [Facebook](https://www.facebook.com/profile.php?id=61576113030850)  
+📸 [Instagram](https://www.instagram.com/house_of_dessert_s)
