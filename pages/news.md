@@ -1,5 +1,6 @@
 ---
 header_text: News
+header_image: /images/ice-cream.jpg
 meta_title: News | House of Desserts
 eleventyNavigation:
   key: News

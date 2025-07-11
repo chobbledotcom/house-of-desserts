@@ -15,13 +15,13 @@
   --link-decoration: underline;
   --link-decoration-hover: underline;
   --link-decoration-style: dashed;
-  --header-text-color: #8b0000;
+  --header-text-color: #fff8dc;
   --main-heading-color: #b22222;
   --form-button-border: 2px solid #ffd700;
   --form-button-hover-border: 2px solid #8b0000;
 }
 
-/* body_classes: header-centered, headings-centered */
+/* body_classes: header-centered-dark */
 
 .items .image-link {
   aspect-ratio: 3/2;
@@ -49,6 +49,27 @@ h6,
 nav,
 button {
   font-weight: 400;
+}
+
+main {
+  animation: fadeIn 0.5s ease-in;
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-top: 2rem;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 
 body > footer .socials li a img {

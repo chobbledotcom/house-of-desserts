@@ -1,5 +1,6 @@
 ---
 title: Seasonal Specials Coming Soon
+header_image: /images/ice-cream.jpg
 date: 2025-01-15
 subtitle: Keep an eye out for our limited-time seasonal treats
 header_text: Seasonal Specials Coming Soon
@@ -12,6 +13,7 @@ We're planning exciting seasonal specials throughout the year!
 [Details about upcoming seasonal items coming soon]
 
 ## What to Expect
+
 - Limited-time flavors
 - Seasonal toppings and ingredients
 - Special holiday treats
