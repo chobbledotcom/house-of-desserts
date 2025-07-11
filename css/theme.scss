@@ -24,7 +24,8 @@
 /* body_classes: header-centered-dark */
 
 .items .image-link {
-  aspect-ratio: 3/2;
+  aspect-ratio: 16/9;
+  overflow: hidden;
 }
 
 @font-face {
@@ -51,7 +52,7 @@ button {
   font-weight: 400;
 }
 
-main {
+main article {
   animation: fadeIn 0.5s ease-in;
   h1,
   h2,
@@ -79,4 +80,10 @@ body > footer .socials li a img {
     filter: invert(20%) sepia(63%) saturate(2992%) hue-rotate(346deg)
       brightness(89%) contrast(92%);
   }
+}
+
+body > header::after {
+  content: "";
+  display: block;
+  background: url("/assets/house-of-desserts-compressed.png");
 }
