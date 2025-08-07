@@ -1,15 +1,14 @@
 ---
 title: House of Desserts
+header_image: /images/ice-cream.jpg
 meta_description: Fun filled treats suitable for all ages on Lutterworth High Street
 meta_title: House of Desserts | Dessert Shop in Lutterworth
-header_image: /images/ice-cream.jpg
 eleventyNavigation:
   key: Home
   order: 1
 layout: home.html
 permalink: /
 ---
-
 ## A New Dessert Shop on Lutterworth High St
 
 **Opened in July 2025**, we serve [handcrafted waffles](/menus/waffles/), [delicate crepes](/menus/crepes/), [indulgent sundaes](/menus/sundaes/), and our signature [Dubai desserts](/menus/dubai-desserts/). Create your own [custom cheesecake](/menus/cheesecakes/), enjoy [fresh hot churros](/menus/churros/) with artisanal dips, or treat yourself to one of our [creamy milkshakes](/menus/milkshakes/).
@@ -18,7 +17,7 @@ Our menu features premium brands including **Ferrero Rocher**, **Oreo**, **Bisco
 
 ## Opening Hours
 
-**12pm - 11pm Daily**  
+**12pm -9:30pm Daily**  
 *Open every day of the week*
 
 ## Location
