@@ -17,7 +17,7 @@ Our menu features premium brands including **Ferrero Rocher**, **Oreo**, **Bisco
 
 ## Opening Hours
 
-**12pm -9:30pm Daily**  
+**12pm - 9:30pm Daily**  
 *Open every day of the week*
 
 ## Location
