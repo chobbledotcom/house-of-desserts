@@ -1,7 +1,6 @@
 ---
 name: Right Column
 ---
-
 ![House of Desserts Logo](/assets/house-of-desserts-compressed.png)
 
 ## Visit Us
@@ -13,7 +12,7 @@ LE17 4AD
 
 ## Opening Hours
 
-12pm - 11pm Daily
+12pm - 9:30pm Daily
 
 ## Contact
 
