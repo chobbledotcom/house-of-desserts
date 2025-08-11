@@ -12,8 +12,7 @@ LE17 4AD
 
 ## Opening Hours
 
-**Mon - Sat:** 12pm - 9:30pm  
-**Sunday:** 12pm - 5pm
+{% opening_times %}
 
 ## Contact
 
