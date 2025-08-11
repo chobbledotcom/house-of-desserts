@@ -21,8 +21,8 @@ permalink: /contact/
 
 ## Opening Hours
 
-**Monday - Saturday:** 12pm - 9:30pm  
-**Sunday:** 12pm - 5pm  
+{% opening_times %}
+
 *Open every day of the week for your sweet cravings*
 
 ## Get In Touch
