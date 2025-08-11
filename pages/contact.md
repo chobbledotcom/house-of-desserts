@@ -1,6 +1,6 @@
 ---
 title: Contact House of Desserts
-header_image: /images/ice-cream.jpg
+header_image: /images/shop-front.jpg
 meta_description: Get in touch with House of Desserts on Lutterworth High Street for enquiries about our delicious desserts, custom orders, or special events.
 meta_title: Contact Us | House of Desserts | Dessert Shop in Lutterworth
 eleventyNavigation:
@@ -21,7 +21,8 @@ permalink: /contact/
 
 ## Opening Hours
 
-**12pm - 11pm Daily**  
+**Monday - Saturday:** 12pm - 9:30pm  
+**Sunday:** 12pm - 5pm  
 *Open every day of the week for your sweet cravings*
 
 ## Get In Touch
