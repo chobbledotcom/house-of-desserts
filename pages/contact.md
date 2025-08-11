@@ -12,6 +12,8 @@ permalink: /contact/
 
 # Visit Us
 
+![House of Desserts Shop Front](/images/shop-front.jpg)
+
 **12 High Street**  
 **Lutterworth**  
 **Leicestershire**  
@@ -21,7 +23,8 @@ permalink: /contact/
 
 ## Opening Hours
 
-**12pm - 11pm Daily**  
+**Monday - Saturday:** 12pm - 9:30pm  
+**Sunday:** 12pm - 5pm  
 *Open every day of the week for your sweet cravings*
 
 ## Get In Touch

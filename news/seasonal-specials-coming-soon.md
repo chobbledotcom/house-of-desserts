@@ -8,16 +8,17 @@ meta_title: Seasonal Specials | House of Desserts
 meta_description: House of Desserts will be introducing seasonal specials throughout the year featuring limited-time flavours and treats
 ---
 
-We're planning exciting seasonal specials throughout the year!
+Get ready for exciting seasonal specials throughout the year at House of Desserts!
 
-[Details about upcoming seasonal items coming soon]
+We're constantly creating new and innovative desserts that celebrate the flavours of each season. From refreshing summer treats to cosy winter warmers, we'll have something special for every time of year.
 
 ## What to Expect
 
-- Limited-time flavours
-- Seasonal toppings and ingredients
-- Special holiday treats
-- Exclusive seasonal combinations
+- **Limited-Time Flavours** - Unique taste combinations available only for the season
+- **Seasonal Ingredients** - Fresh fruits, festive spices and seasonal favourites
+- **Holiday Specials** - Celebration desserts for Easter, Halloween, Christmas and more
+- **Exclusive Combinations** - Creative desserts you won't find anywhere else
+- **Monthly Features** - New surprises every month to keep things exciting
 
 Follow us on social media to be the first to know when new seasonal specials arrive!
 
