@@ -1,6 +1,6 @@
 # House of Desserts
 
-**[house-of-desserts.co.uk](https://house-of-desserts.co.uk)**
+**[house-of-desserts.co.uk](https://www.house-of-desserts.co.uk)**
 
 ## About House of Desserts
 
@@ -38,4 +38,4 @@ All desserts can be customised with popular brands and flavours including Ferrer
 
 ## Technical Information
 
-A website based on the [Chobble Template](https://git.chobble.com/chobble/chobble-template), written in Eleventy with MVP.css, built with Node on Github actions, and hosted on Neocities at https://house-of-desserts.co.uk.
+A website based on the [Chobble Template](https://git.chobble.com/chobble/chobble-template), written in Eleventy with MVP.css, built with Node on Github actions, and hosted on Bunny at https://www.house-of-desserts.co.uk.

@@ -1,14 +1,14 @@
 <script>
-  window.goatcounter = { no_onload: true }
+  window.goatcounter = { no_onload: true };
   const trackPageView = () => {
-    if (typeof window.goatcounter.count === 'function') {
+    if (typeof window.goatcounter.count === "function") {
       window.goatcounter.count({
         path: location.pathname + location.search + location.hash,
       });
     }
-  }
-  document.addEventListener("DOMContentLoaded", trackPageView)
-  document.addEventListener("turbo:load", trackPageView)
+  };
+  document.addEventListener("DOMContentLoaded", trackPageView);
+  document.addEventListener("turbo:load", trackPageView);
 </script>
 <script
   data-goatcounter="https://analytics.house-of-desserts.co.uk/count"
@@ -16,11 +16,17 @@
   src="https://analytics.house-of-desserts.co.uk/count.js"
 ></script>
 
-<link rel="shortcut icon" href="/favicon.svg">
+<link rel="shortcut icon" href="/favicon.svg" />
 
-<meta property="og:image" content="https://house-of-desserts.co.uk/assets/share-image.jpg">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
-<meta property="og:image:type" content="image/jpeg">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://house-of-desserts.co.uk/assets/share-image.jpg">
+<meta
+  property="og:image"
+  content="https://www.house-of-desserts.co.uk/assets/share-image.jpg"
+/>
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta
+  name="twitter:image"
+  content="https://www.house-of-desserts.co.uk/assets/share-image.jpg"
+/>
