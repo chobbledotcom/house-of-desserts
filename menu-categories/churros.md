@@ -1,5 +1,7 @@
 ---
-name: Churros
+name: "cookie dough "
 order: 7
-menus: ["menus/menu.md", "menus/churros.md"]
+menus:
+  - menus/menu.md
+  - menus/churros.md
 ---
