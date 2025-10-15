@@ -1,5 +1,5 @@
 ---
-name: "cookie dough "
+name: "Cookie dough "
 order: 7
 menus:
   - menus/menu.md
