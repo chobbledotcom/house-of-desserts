@@ -2,6 +2,7 @@
 name: Kaz
 url: https://www.google.com/maps/contrib/114886197563401493274?hl=en
 rating: 1
+hidden: true
 ---
 
 Dirty floor
