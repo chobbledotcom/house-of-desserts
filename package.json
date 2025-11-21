@@ -1,0 +1,12 @@
+{
+  "name": "house-of-desserts",
+  "version": "1.0.0",
+  "description": "House of Desserts website",
+  "scripts": {
+    "serve": "./bin/serve",
+    "build": "./bin/build",
+    "update-pages": "./bin/update-pages",
+    "fetch-google-reviews": "node scripts/fetch-google-reviews.js",
+    "clean": "rm -rf .build _site"
+  }
+}
