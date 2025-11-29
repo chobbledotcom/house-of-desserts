@@ -68,7 +68,7 @@ WATCH_PID=$!
 cd "$COMBINED_DIR"
 
 rm -rf _site
-npm install --no-audit --no-fund
-npx @11ty/eleventy \
+pnpm install
+pnpm exec eleventy \
   --serve \
   --quiet

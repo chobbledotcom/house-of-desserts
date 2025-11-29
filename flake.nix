@@ -1,15 +1,12 @@
 {
-  inputs.nixpkgs.url = "nixpkgs";
-
-  outputs =
-    { self, nixpkgs }:
+  outputs = { self }:
     {
       devShells.x86_64-linux.default =
         let
-          pkgs = import nixpkgs { system = "x86_64-linux"; };
-          npmScripts = pkgs.symlinkJoin {
-            name = "npm-scripts";
-            paths = map (cmd: pkgs.writeShellScriptBin cmd "npm run ${cmd}") [
+          pkgs = import <nixpkgs> { };
+          pnpmScripts = pkgs.symlinkJoin {
+            name = "pnpm-scripts";
+            paths = map (cmd: pkgs.writeShellScriptBin cmd "pnpm run ${cmd}") [
               "serve"
               "build"
               "update-pages"
@@ -19,7 +16,12 @@
           };
         in
         pkgs.mkShell {
-          buildInputs = [ pkgs.nodejs_23 npmScripts pkgs.pandoc ];
+          buildInputs = [
+            pkgs.nodejs_24
+            pkgs.pnpm
+            pnpmScripts
+            pkgs.pandoc
+          ];
           shellHook = ''
             cat <<EOF
 
