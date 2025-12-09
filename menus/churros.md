@@ -2,7 +2,7 @@
 title: Cookie dough
 order: 2
 header_image: /images/cookie dough.jpg
-description: Our delicious cookie dough selection
+subtitle: Our delicious cookie dough selection
 ---
 **Cookie dough** 
 
