@@ -9,7 +9,8 @@ eleventyNavigation:
 layout: home.html
 permalink: /
 ---
-## A New Dessert Shop on Lutterworth High St
+
+# A New Dessert Shop on Lutterworth High St
 
 **Opened in July 2025**, we serve [handcrafted waffles](/menus/waffles/), [delicate crepes](/menus/crepes/), [indulgent sundaes](/menus/sundaes/), and our signature [Dubai desserts](/menus/dubai-desserts/). Create your own [custom cheesecake](/menus/cheesecakes/), enjoy [fresh hot churros](/menus/churros/) with artisanal dips, or treat yourself to one of our [creamy milkshakes](/menus/milkshakes/).
 
@@ -30,7 +31,7 @@ Our menu features premium brands including **Ferrero Rocher**, **Oreo**, **Bisco
 
 ## About Us
 
-*Our story and mission coming soon*
+_Our story and mission coming soon_
 
 **Come see us on the High Street** and discover why we're quickly becoming Lutterworth's favourite dessert destination.
 

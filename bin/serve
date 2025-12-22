@@ -36,6 +36,7 @@ rsync \
     --exclude=".git" \
     --exclude="*.nix" \
     --exclude="README.md" \
+    --exclude="package.json" \
     "$CLIENT_DIR/" "$COMBINED_DIR/src/"
 
 sync_client_files() {

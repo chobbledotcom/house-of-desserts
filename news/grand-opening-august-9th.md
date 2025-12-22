@@ -3,7 +3,6 @@ title: We're Now Open!
 header_image: /images/shop-front.jpg
 date: 2025-08-09
 subtitle: House of Desserts officially opened its doors on August 9th
-header_text: Grand Opening - We're Now Open!
 meta_title: Grand Opening August 9th | House of Desserts
 meta_description: House of Desserts officially opened on August 9th on Lutterworth High Street. Come visit us for amazing desserts!
 ---

@@ -3,7 +3,6 @@ title: Seasonal Specials Coming Soon
 header_image: /images/ice-cream.jpg
 date: 2025-01-15
 subtitle: Keep an eye out for our limited-time seasonal treats
-header_text: Seasonal Specials Coming Soon
 meta_title: Seasonal Specials | House of Desserts
 meta_description: House of Desserts will be introducing seasonal specials throughout the year featuring limited-time flavours and treats
 ---
