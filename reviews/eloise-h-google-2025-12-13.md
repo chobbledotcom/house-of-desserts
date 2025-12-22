@@ -1,6 +1,7 @@
 ---
 name: Eloise H
 url: https://www.google.com/maps/contrib/106984034768933412193?hl=en
+hidden: true
 rating: 4
 ---
 
